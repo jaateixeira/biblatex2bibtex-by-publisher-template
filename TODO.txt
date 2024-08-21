@@ -1,0 +1,3 @@
+When useing key title, we should use book-title for books
+
+in Wiley mode.. should move inproceedings to proceedings
